@@ -1,4 +1,4 @@
-EXPERIMENT 4: FULL ADDER AND  FULL SUBTRACTOR
+**EXPERIMENT 4: FULL ADDER AND  FULL SUBTRACTOR**
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
